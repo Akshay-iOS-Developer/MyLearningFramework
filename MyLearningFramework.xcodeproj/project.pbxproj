@@ -56,6 +56,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		8324F83724A8821100CB7B4B /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				83A1FC4924A85D3400B85F23 /* Car.swift */,
+				83A1FC4B24A85D3F00B85F23 /* Country.swift */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
 		83A1FC2324A85CD600B85F23 = {
 			isa = PBXGroup;
 			children = (
@@ -77,11 +86,10 @@
 		83A1FC2F24A85CD600B85F23 /* MyLearningFramework */ = {
 			isa = PBXGroup;
 			children = (
+				8324F83724A8821100CB7B4B /* Classes */,
 				83A1FC3024A85CD600B85F23 /* MyLearningFramework.h */,
 				83A1FC3124A85CD600B85F23 /* Info.plist */,
 				83A1FC4724A85D1C00B85F23 /* HelloWorld.swift */,
-				83A1FC4924A85D3400B85F23 /* Car.swift */,
-				83A1FC4B24A85D3F00B85F23 /* Country.swift */,
 			);
 			path = MyLearningFramework;
 			sourceTree = "<group>";
