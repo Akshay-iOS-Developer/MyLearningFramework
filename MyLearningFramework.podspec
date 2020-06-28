@@ -90,7 +90,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.source_files  = "MyLearningFramework"
-  #spec.exclude_files = "Classes/Exclude"
+  #spec.exclude_files = "Classes/"
 
   # spec.public_header_files = "Classes/**/*.h"
 
